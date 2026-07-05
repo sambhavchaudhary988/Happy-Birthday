@@ -21,33 +21,21 @@ const CONFIG = {
     ],
 
     letterMessage:
-`Dear My Cute Aunty,
+`Dear Aunty,
 
 Happy Birthday! 🎂❤️
 
-Today is a very special day because
-it is the birthday of such a wonderful
-person.
+Wishing you a very Happy Birthday! I hope this special day brings you lots of happiness, good health, peace, and countless beautiful moments.
 
-Thank you for always being caring,
-kind, supportive and loving.
+Even though I've known you for only a few months, I've always seen how kind, caring, and warm-hearted you are. Your positive nature and welcoming smile make everyone around you feel comfortable and happy.
 
-May your life always be filled with
-happiness, good health,
-success, peace and beautiful memories.
+May God bless you with a long life filled with love, success, laughter, and wonderful memories. May each new year bring you even more reasons to smile and celebrate.
 
-May God bless you with many more
-years of joy and endless smiles.
+Thank you for being such a lovely person. I hope this little surprise adds a smile to your special day.
 
-Keep smiling because your smile
-makes everyone around you happy.
+Have a fantastic birthday and a wonderful year ahead!
 
-I hope this little surprise made
-your birthday even more special.
-
-Have an amazing birthday!
-
-With lots of love,
+With best wishes,
 
 ❤️ Sambhav ❤️`,
 
